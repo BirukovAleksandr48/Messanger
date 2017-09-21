@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Massenger</string>
+    <string name="etName">Name</string>
+    <string name="etPassword">Password</string>
+    <string name="btnReg">Register</string>
+    <string name="btnSend">SEND</string>
+    <string name="et"></string>
+
+
+</resources>
